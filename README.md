@@ -57,7 +57,7 @@ int main() {
 
 
 # OUTPUT
-![alt text](<Screenshot at 2025-05-12 08-24-17.png>)
+![alttext](./Screenshot%20at%202025-05-12%2008-24-17.png)
 
 
 
@@ -109,14 +109,14 @@ printf("Running ps with execlp. Now with path specified\n");
 
 
 ## OUTPUT
-![alt text](<Screenshot at 2025-05-12 08-43-11.png>)
-![alt text](<Screenshot at 2025-05-12 08-43-32.png>)
-![alt text](<Screenshot at 2025-05-12 08-43-59.png>)
-![alt text](<Screenshot at 2025-05-12 08-44-23.png>)
-![alt text](<Screenshot at 2025-05-12 08-44-41.png>)
-![alt text](<Screenshot at 2025-05-12 08-45-04.png>)
-![alt text](<Screenshot at 2025-05-12 08-45-54.png>)
-![alt text](<Screenshot at 2025-05-12 08-46-22.png>)
+![alttext](./Screenshot%20at%202025-05-12%2008-43-11.png)
+![alttext](./Screenshot%20at%202025-05-12%2008-43-32.png)
+![alttext](./Screenshot%20at%202025-05-12%2008-43-59.png)
+![alttext](./Screenshot%20at%202025-05-12%2008-44-23.png)
+![alttext](./Screenshot%20at%202025-05-12%2008-44-41.png)
+![alttext](./Screenshot%20at%202025-05-12%2008-45-04.png)
+![alttext](./Screenshot%20at%202025-05-12%2008-45-54.png)
+![alttext](./Screenshot%20at%202025-05-12%2008-46-22.png)
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 ```c
@@ -188,7 +188,7 @@ int main() {
 
 ## OUTPUT
 
-![alt text](<Screenshot at 2025-05-12 08-51-55.png>)
+![alttext](./Screenshot%20at%202025-05-12%2008-51-55.png)
 
 
 
